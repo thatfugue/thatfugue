@@ -1,7 +1,7 @@
 # 👋 Hi there,
 
 ### 🎓 Student & Full-Stack Developer
-I am a final-year student on the Computer Science programme at Istanbul University and I enjoy developing web applications and writing code as a hobby.
+I'm a final-year Computer Science student at Istanbul University with a strong passion for building web applications and writing code.
 
 ---
 
